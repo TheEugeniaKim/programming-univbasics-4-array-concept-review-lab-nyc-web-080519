@@ -2,8 +2,6 @@
    array.length.times do |index| 
      if array[index] == value_to_find 
    return index
-     end 
-   else return nil 
    end
  end
 end 
