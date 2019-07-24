@@ -5,7 +5,7 @@
  else 
    end
  end
- return nil 
+ else return nil 
 end 
 
 # def find_max_value(array)
