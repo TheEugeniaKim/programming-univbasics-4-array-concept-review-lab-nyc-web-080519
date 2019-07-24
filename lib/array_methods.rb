@@ -2,8 +2,11 @@
    array.length.times do |index| 
      if array[index] == value_to_find 
    return index
-
+ else 
+   return nil 
+ end
 end 
+end
 
 # def find_max_value(array)
 #   array = array.minmax
