@@ -2,7 +2,7 @@
    array.length.times do |index| 
      if array[index] == value_to_find 
    return index
- elseif 
+ elseif array[index] == value_to_find 
    return nil 
  end
 end 
