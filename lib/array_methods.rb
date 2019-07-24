@@ -8,6 +8,7 @@
  else 
    return nil 
 end 
+end 
 
 # def find_max_value(array)
 #   array = array.minmax
