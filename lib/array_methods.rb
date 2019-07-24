@@ -2,10 +2,7 @@
    array.length.times do |index| 
      if array[index] == value_to_find 
    return index
- end
- elseif  
-   return nil 
-end 
+
 end 
 
 # def find_max_value(array)
